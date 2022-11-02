@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Git effective-giggles (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Git effective-giggles (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
